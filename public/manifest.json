@@ -1,0 +1,24 @@
+{
+  "name": "MenuFit - 智能点单助手",
+  "short_name": "MenuFit",
+  "description": "上传餐厅菜单，AI 帮你选出最适合你目标的菜品组合",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
